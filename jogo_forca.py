@@ -1,4 +1,8 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*- 
+
+# Antes de começar, colocar no mesmo diretório um arquivo contendo as palavras que deseja que o programa leia em um arquivo chamado palavras.txt
+
+
 # Import
 import random
 
